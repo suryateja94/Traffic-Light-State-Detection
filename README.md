@@ -36,8 +36,8 @@ The captured image is passed as an input to the Canny() function defined in Open
 
 
 ### Key Contributions:
-Surya Teja Sharma - Gaussian Blur, Canny Edge Detection and Object Detection
-Parth Shah - Color Bounding and Video Extraction and Stitching
-Amartya Singh - Hough Transformation for Circle Detection
+Surya Teja Sharma - Gaussian Blur, Canny Edge Detection and Object Detection.
+Parth Shah - Color Bounding and Video Extraction and Stitching.
+Amartya Singh - Hough Transformation for Circle Detection.
 
 
